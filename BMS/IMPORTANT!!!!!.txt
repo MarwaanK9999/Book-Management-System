@@ -1,0 +1,1 @@
+In Line 9, a variable called "directory" is used to indicate the directory of this folder, which is how the database is located. Please change the variable to the directory to the directory that you will be using.
